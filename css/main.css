@@ -1,0 +1,13 @@
+body {
+	padding-top: 100px;
+	padding-bottom: 20px;
+}
+
+.formContainer {
+	margin:  0 auto;
+	width: 80%;
+}
+
+.recaptcha_widget_div{
+	display: none;
+}

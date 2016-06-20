@@ -1,0 +1,12 @@
+Envio de e-mail autenticado nos servidores da Locaweb com Recaptchalib.
+
+
+Uma nova atualização dos servidores da Locaweb para revendas CPANEL, fez com que os servidores de hospedagem somente pudessem enviar e-mail autenticado dos servidores de hospedagem de sites.
+
+
+Para esta nova política de hospedagem e envio de e-mail por formulários apliquei a seguinte solução desenvolvida em PHP.
+
+
+Como já havia utilizado também a biblioteca de capcha do Google (Recaptchalib), o código apresentado também trata desta integração necessária sempre em formulários de contato para entender que o envio é realizado por um ser humano.
+
+Os arquivos estão comentados tanto quanto foi possível.
